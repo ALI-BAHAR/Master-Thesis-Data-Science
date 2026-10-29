@@ -85,4 +85,9 @@ than to any single component.
 
 The crop-damage percentages are model-predicted effects. No fruit was weighed in
 the field.
+## Image credits
+
+The tomato photograph on the cover of the defence deck shows fruit damage by
+*Tuta absoluta* larvae — Metin GULESCI, Bugwood.org, CC BY 3.0 US. The adult
+moth photograph used in the thesis is by Ben Sale, CC BY 2.0.
 
