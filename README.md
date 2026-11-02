@@ -66,7 +66,9 @@ against the reconstructed reference model:
 Crop response against a no-pest counterfactual, under identical forcing, crop
 parameters and crop initial conditions: at Day 69, Scandola loses 2.98% of leaf
 area index and 1.12% of simulated fruit biomass; Brunelli loses 25.84% and
-12.70%.
+12.70%. Day 69 is used as the common comparison day for both sites. The Scandola
+notebook itself runs to Day 76 and reports the loss on that day (1.32% of
+simulated fruit biomass).
 
 ## How to read the comparisons
 
@@ -85,6 +87,7 @@ than to any single component.
 
 The crop-damage percentages are model-predicted effects. No fruit was weighed in
 the field.
+
 ## Image credits
 
 The tomato photograph on the cover of the defence deck shows fruit damage by
